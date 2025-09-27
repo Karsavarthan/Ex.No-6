@@ -1,7 +1,7 @@
-# Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
+[# Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-# Register no: 212222030003
-# Name : ARUL C
+# Register no: 212223040040
+# Name : DHINESH M
 # Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
 # AI Tools Required:
@@ -156,3 +156,4 @@ The experiment demonstrated cross-tool compatibility for sentiment and keyword a
 # Result:
 
   The corresponding Python code was executed successfully, proving that sentiment analysis and keyword extraction can be enhanced by combining multiple AI tools.
+](https://github.com/dhinesh87/Ex.No.6.git)
